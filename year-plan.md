@@ -15,3 +15,4 @@ Was hat da passiert? hat Lea zu viel getrunken?
 - 26.10 - National Holiday
 - 31.7 - Daniels Geburtstag
 - 26.10 - National Holiday
+- 12.12 - Random date
