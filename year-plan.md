@@ -1,3 +1,4 @@
+- 9.4.: Ostern
 - 26.4.: Markos Geburtstag
 - 31.10.: Halloween
 - 24.12.: Weihnachten
