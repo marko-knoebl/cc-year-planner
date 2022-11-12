@@ -1,5 +1,6 @@
 - 9.4.: Ostern
 - 26.4.: Markos Geburtstag
+- 1.6.: Date C
 - 26.10.: Nationalfeiertag
 - 31.10.: Halloween
 - 24.12.: Weihnachten
