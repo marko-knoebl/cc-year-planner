@@ -1,3 +1,4 @@
 - 26.4.: Markos Geburtstag
 - 31.10.: Halloween
+- 07.11.: Hans' Birthday
 - 24.12.: Weihnachten
