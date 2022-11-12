@@ -1,3 +1,4 @@
+- 1.1.: Neujahr
 - 16.3.: Lea Geburtstag
 - 22.3.: Namenstag
 - 9.4.: Ostern
