@@ -10,4 +10,3 @@
 - 24.12.: Weihnachten
 - 31.12.: Silvester
 
-
