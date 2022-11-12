@@ -14,4 +14,5 @@ Was hat da passiert? hat Lea zu viel getrunken?
 - 4.10 - Tag des Vodkas !important
 
 - 26.10 - National Holiday
->>>>>>> 1c57f0371c5728a283982e52bb6c8bae0d71edd8
+- 31.7 - Daniels Geburtstag
+- 26.10 - National Holiday
