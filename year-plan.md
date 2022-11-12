@@ -9,3 +9,12 @@
 - 4.10 - Tag des Vodkas !important
 - 31.7 - Daniels Geburtstag
 - 26.10 - National Holiday
+- 26.4.: Markos Geburtstag
+- 31.7 - Daniels Geburtstag
+- 4.10 - Tag des Vodkas !important
+- 26.10 - National Holiday
+- 31.10.: Halloween
+- 07.11.: Hans' Birthday
+- 24.12.: Weihnachten
+- 31.12.: Silvester
+
