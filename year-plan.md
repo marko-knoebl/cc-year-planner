@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 - 16.3.: Lea Geburtstag
  -9.4.: Ostern
-=======
->>>>>>> d290e0033780227706b56fbdfc86c193bc1b4a42
 - 26.4.: Markos Geburtstag
 - 4.10 - Tag des Vodkas !important
 - 31.10.: Halloween
